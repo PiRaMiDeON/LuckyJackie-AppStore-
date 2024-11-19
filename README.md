@@ -4,7 +4,7 @@
       <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/3.jpg' width = 220>
 </p>
 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/Engine-2022-blueviolet" alt="Unity Version">
     <img src="https://img.shields.io/badge/Version-Beta-green" alt="Game Version">
 </p>
