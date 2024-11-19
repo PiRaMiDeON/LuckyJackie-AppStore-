@@ -1,8 +1,8 @@
-<p align="center">
-      <img src='https://github.com/PiRaMiDeON/SimpleShooter3D_PET-PROJECT/blob/main/Img.png' width=1000>
+<p align="left">
+      <img src='https://github.com/PiRaMiDeON/' width=1000>
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Engine-2022-blueviolet" alt="Unity Version">
     <img src="https://img.shields.io/badge/Version-Alpha-red" alt="Game Version">
 </p>
