@@ -1,7 +1,7 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/1.jpg' width = 320>
-      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/2.jpg' width = 320>
-      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/3.jpg' width = 320>
+      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/1.jpg' width = 280>
+      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/2.jpg' width = 280>
+      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/3.jpg' width = 280>
 </p>
 
 <p align="left">
