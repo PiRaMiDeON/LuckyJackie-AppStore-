@@ -35,7 +35,3 @@ src="https://cdn.wikimg.net/en/splatoonwiki/images/thumb/8/88/GitHub_Icon.svg/12
 ## Разработчик
 
 - [PiRaMiDeON](https://github.com/PiRaMiDeON)
-
-## Лицензия
-
-Проект ClientServerTestProject распространяется под лицензией MIT.
