@@ -1,5 +1,7 @@
-<p align="center">
-      <img src='https://github.com/PiRaMiDeON/Imgs/1.jpg'>
+<p align="left">
+      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/1.jpg' width = 300>
+      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/2.jpg' width = 300>
+      <img src='https://github.com/PiRaMiDeON/LuckyJackie-AppStore-/blob/main/Imgs/3.jpg' width = 300>
 </p>
 
 <p align="left">
