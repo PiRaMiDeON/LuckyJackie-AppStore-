@@ -1,5 +1,5 @@
-<p align="left">
-      <img src='https://github.com/PiRaMiDeON/' width=1000>
+<p align="center">
+      <img src='https://github.com/PiRaMiDeON/Imgs/1.jpg'>
 </p>
 
 <p align="left">
